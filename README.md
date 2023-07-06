@@ -1,11 +1,3 @@
----
-title: ImageCity
-date: '2023-06-07'
-spoiler: Code Styled Readme Template
-categories: ["code-styled", "all-profile"]
-githubUsername: 'imagecity'
----
-
 ## Hi, I'm imagecity!
 
 ### Hello 
