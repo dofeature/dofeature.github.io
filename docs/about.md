@@ -1,4 +1,4 @@
-# **About**
+## **About**
 
 This project is a built around GitHub's functionality which lets you use GitHub Pages to render markdown (or HTML) files as a static website, from your root or `docs` folder.
 
@@ -20,7 +20,7 @@ You don't even have to add metadata to your pages - the layout will be set as `d
 
 
 
-## About this repo
+### About this repo
 
 <!-- TODO move to docs -->
 
