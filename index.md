@@ -11,5 +11,4 @@ Some info on how to make a site like this and how it works.
 - [Limitations](limitations.md)
 - [What about a Wiki?](wiki.md)
 
-
-<h1>{{ "Hello World!" | downcase }}</h1>
+{{ "Hello World!" | downcase }}
