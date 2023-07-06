@@ -1,6 +1,3 @@
----
-permalink: /
----
 # **ImageCity**
 
 We demonstrate the transformative impact of applying artificial intelligence to city data, significantly enhancing the lives of citizens.
