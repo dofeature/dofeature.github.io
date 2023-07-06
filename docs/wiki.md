@@ -1,4 +1,4 @@
-# **What about a Wiki?**
+## **What about a Wiki?**
 
 [![Project Wiki](https://img.shields.io/badge/Wiki-blue?style=for-the-badge)](https://github.com/MichaelCurrin/gh-pages-no-jekyll/wiki)
 
