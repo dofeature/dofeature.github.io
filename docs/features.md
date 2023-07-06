@@ -1,4 +1,4 @@
-# **Features**
+## **Features**
 
 - Suitable for light docs site of a few pages.
 - No HTML or Liquid coding needed. Just write content in markdown.
@@ -10,7 +10,7 @@
 - This pattern for a GH Pages site works using content in your `docs` directory. But you can also move everything to the root, such as if the entire repo is documentation, or if you are making a website that is not about documetnation. Just configure GH Pages to use the appropriate path.
 
 
-## Styling
+### Styling
 
 Example code block:
 
@@ -29,20 +29,20 @@ Content here.
 ```
 
 
-## Jekyll vs no Jekyll
+### Jekyll vs no Jekyll
 
-### No Jekyll
+#### No Jekyll
 
 If you want to upload plain HTML instead of `.md` files, create an empty `.nojekyll` file in your repo.
 
-### Jekyll
+#### Jekyll
 
 If you want to upload markdown and have it rendered to HTML with Github's base styling, leave the `.nojekyll` file out so that Jekyll is used. Note that you don't need any config, Gemfile, theme etc. Just an `index.md` page and optionally more linked pages will work.
 
 Jekyll will turn `index.md` into `index.html`. Any Liquid code for Jekyll can cause build errors, so since you're using Jekyll to parse you files you should use the `raw` tag to prevent the Liquid from being evaluated and rather render as plain text (typically in a codeblock).
 
 
-## Homepage
+### Homepage
 
 The homepage needs be available as `/` i.e. `/index.html` when the site is rendered.
 
