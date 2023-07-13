@@ -1,25 +1,23 @@
 ---
 name: Youngjun Park
 position: pi
-avatar: konrad_profile_3.jpg
-twitter: KordingLab
+avatar: youngjun.jpg
+twitter: 
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-- _Penn Integrated Knowledge Professor, University of Pennsylvania_<br>
-- _Science coach. Collaborator. Transdisciplinary optimist._
+- _Researcher, Computer Science, Korea Advanced Institute of Science and Technology_<br>
+- _Lecturer, Architecture, Seoul National University_<br>
+- _Urban researcher. Collaborator. Transdisciplinary optimist._
 
-<i class="fa fa-envelope-o"></i> `kording@upenn.edu`
+<i class="fa fa-envelope-o"></i> `youngjourpark@gmail.com`
 
 **Office**<br>
-404B Richards, 3700 Hamilton Walk <br>
-Philadelphia, PA 19104
+N1-823, KAIST <br>
+Daejeon, Republic of Korea 34141
 
-[Konrad Kording](http://koerding.com/) runs his lab at the University of Pennsylvania.
-Konrad is interested in the question of how the brain solves the credit assignment problem and
-similarly how we should assign credit in the real world (through causality). In extension
-of this main thrust he is interested in applications of causality in biomedical research.
-Konrad has trained as student at ETH Zurich with Peter Konig, as postdoc at UCL London with Daniel
-Wolpert and at MIT with Josh Tenenbaum. After a decade at Northwestern University he is now
-PIK professor at UPenn.
+[Youngjun Park] is an urban researcher with a strong background in urban design and data science. 
+His interests lie at the intersection of evidence-based urban analysis and interdisciplinary collaboration.
+His work aims to foster innovative solutions for sustainable and healthy urban environments. 
+Youngjun has continued to novel approaches to address urban challenges, such as walking behavior in urban parks, physical activity changes during the COVID-19 pandemic, and pedestrian safety in a newly-installed bicycle lane. 
