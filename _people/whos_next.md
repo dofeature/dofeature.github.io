@@ -1,7 +1,7 @@
 ---
 name: Unknown
 position: next
-avatar: 
+avatar: subject_zero.jpg
 twitter: 
 joined: 2023
 ---
