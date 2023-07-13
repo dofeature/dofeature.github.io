@@ -1,5 +1,5 @@
 ---
-name: Konrad Kording
+name: Youngjun Park
 position: pi
 avatar: konrad_profile_3.jpg
 twitter: KordingLab

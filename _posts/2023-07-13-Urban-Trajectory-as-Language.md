@@ -1,18 +1,17 @@
-# **Treating Urban Trajectory as a Language: Unveiling Insights into Human Mobility Patterns**
+---
+title: 'Urban Trajectory as a Language: Unveiling Insights into Human Mobility Patterns'
+description: 'Content Description'
+categories: newblog
+header-img: 'images/post/od-astar.gif'
+---
 
-*by Dr.Youngjun Park, ImageCity*
+# Treating Urban Trajectory as a Language: Unveiling Insights into Human Mobility Patterns
 
-## Menu
-
-Some info on how to make a site like this and how it works.
-
-- [About](about.md)
-- [Features](features.md)
-- [Limitations](limitations.md)
-- [What about a Wiki?](wiki.md)
-
+*by Dr.Youngjun Park, CityImage*
 
 ## Background
+
+% In today's rapidly evolving world, understanding human mobility patterns in urban areas has become increasingly important for effective urban planning and policy-making. 
 Urban trajectory data, which tracks the movement of individuals through geographical coordinates and timestamps, provides valuable insights into these patterns. However, analyzing such spatio-temporal data poses computational challenges and requires innovative approaches. In this article, we introduce a novel approach that treats urban trajectory as a language, leveraging techniques from natural language processing to unlock hidden insights into human mobility patterns. 
 
 ## Urban Trajectory Data: Unlocking the Secrets of Human Mobility
