@@ -11,7 +11,13 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 _(working title) Traffic Prediction Analysis_<br>
 Sumin Han, Youngjun Park<br>
-32nd ACM International Conference on Information and Knowledge Management, 2023 ([Article]())
+32nd ACM International Conference on Information and Knowledge Management, 2023.
+
+
+_Encoding Urban Trajectory as a Language: Deep Learning Insights for Human Mobility Pattern_<br>
+Youngjun Park and Sumin Han<br>
+The paper will be presented at the Association of Collegiate Schools of Planning (ACSP) conference 2023 in Chicago, IL. ([Paper](/documents/2023_ACSP.pdf))
+
 
 <hr>
 

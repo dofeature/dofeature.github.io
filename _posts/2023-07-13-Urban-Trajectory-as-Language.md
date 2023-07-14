@@ -7,6 +7,8 @@ header-img: 'images/post/od-astar.gif'
 
 # Treating Urban Trajectory as a Language: Unveiling Insights into Human Mobility Patterns
 
+<img src='/images/post/od-astar.gif'>
+
 *by Dr.Youngjun Park, CityImage*
 
 ## Background
@@ -39,4 +41,4 @@ Our novel approach has significant implications for urban planning. By consideri
 
 In summary, our groundbreaking approach of treating urban trajectory as a language, and adapting natural language processing techniques, offers a fresh perspective on understanding and predicting spatio-temporal patterns of human mobility in urban areas. We anticipate that our results will demonstrate the advantages of this language-based approach and provide new insights into the intricate relationships between various factors that shape human mobility patterns. By unraveling the language of urban trajectories, we pave the way for smarter, more sustainable cities.
 
-*Note: This blog article is based on the research paper titled "Encoding Urban Trajectory as a Language: Deep Learning Insights for Human Mobility Pattern" by Youngjun Park and Sumin Han. The paper will be presented at the Association of Collegiate Schools of Planning (ACSP) conference 2023 in Chicago, IL.*
+*Note: This blog article is based on the research paper titled "Encoding Urban Trajectory as a Language: Deep Learning Insights for Human Mobility Pattern" by Youngjun Park and Sumin Han. The paper will be presented at the Association of Collegiate Schools of Planning (ACSP) conference 2023 in Chicago, IL.* [Paper](/documents/2023_ACSP.pdf)
