@@ -1,6 +1,6 @@
 ---
 name: Sumin Han
-position: gradstudent
+position: researcher
 avatar: suminhan.jpg
 ---
 
