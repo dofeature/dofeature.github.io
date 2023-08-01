@@ -2,7 +2,6 @@
 title: 'Augmenting Urban Decision-Making with Human-Idea Simulation through Chat-GPT'
 description: 'Content Description'
 categories: newblog
-author: Sumin Han
 ---
 
 # Introduction:
