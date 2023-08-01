@@ -1,7 +1,7 @@
 ---
 name: Hyungchan Bae
 position: researcher
-avatar: hyungchanbae.jpg
+avatar: hyungchanbae.png
 twitter: 
 joined: 2023
 ---
