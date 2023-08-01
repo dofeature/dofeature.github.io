@@ -25,6 +25,9 @@ permalink: /blog/
                     <p class="list-detail" >
                       {{ post.content | strip_html | truncatewords:30 }}
                     </p>
+                    <p class="list-author" >
+                      {{ post.author | strip_html | truncatewords:30 }}
+                    </p>
                 </div>
             </div>
             <hr/>
