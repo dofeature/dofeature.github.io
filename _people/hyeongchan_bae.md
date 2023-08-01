@@ -19,4 +19,4 @@ joined: 2023
 N1-823, KAIST <br>
 Daejeon, Republic of Korea 34141
 
-[Hyeongchan Bae] is thinking now, for this part
+[Hyeongchan Bae] is making this part :-)
