@@ -3,6 +3,7 @@ title: 'Urban Trajectory as a Language: Unveiling Insights into Human Mobility P
 description: 'Content Description'
 categories: newblog
 header-img: 'images/post/od-astar.gif'
+author: 'Youngjun Park'
 ---
 
 # Treating Urban Trajectory as a Language: Unveiling Insights into Human Mobility Patterns
