@@ -20,13 +20,10 @@ permalink: /blog/
                         {{ post.title }}
                     </h3>
                     <p class="list-post-title">
-                      posted on {{ post.date | date: "%B %-d, %Y" }}
+                      posted on {{ post.date | date: "%B %-d, %Y" }} by {{ post.author }}
                     </p>
                     <p class="list-detail" >
                       {{ post.content | strip_html | truncatewords:30 }}
-                    </p>
-                    <p class="list-author" >
-                      {{ post.author | strip_html | truncatewords:30 }}
                     </p>
                 </div>
             </div>
