@@ -43,7 +43,8 @@ Ratti's team delves into several areas, including:
 
 - **Citizens and Governance:** SCL has been involved in innovative projects like "Trash Track," where sensors attached to garbage provided insight into waste management. The lab has also engaged in addressing pressing issues such as the COVID-19 pandemic's social implications and climate crisis, emphasizing citizen engagement and bottom-up action.
 
-![image](https://github.com/dofeature/dofeature.github.io/assets/53332433/e4417c17-f38c-46b1-80ce-d3847afd4062)
+![image](https://github.com/dofeature/dofeature.github.io/assets/53332433/113dbbb2-9107-427a-8bad-ed3a0d5154bc)
+
 
 
 ### Challenges and Human-Centric Approaches
