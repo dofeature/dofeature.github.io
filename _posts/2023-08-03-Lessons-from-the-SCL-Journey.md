@@ -31,27 +31,30 @@ The innovative use of smartphones, digital sensing, and Big Data played a crucia
 
 Ratti's team delves into several areas, including:
 
-- **Human Movement:** SCL's work uncovered new insights into how people move within cities. Projects like "Wanderlust" and studies into human consistency and inconsistency in travel paths have shown that people often take the 'pointiest path,' despite efficiency. The understanding of human movement has potential applications in creating more walkable neighborhoods.
+- **Human Movement**
+  SCL's work uncovered new insights into how people move within cities. Projects like "Wanderlust" and studies into human consistency and inconsistency in travel paths have shown that people often take the 'pointiest path,' despite efficiency. The understanding of human movement has potential applications in creating more walkable neighborhoods.
 
 ![image](https://github.com/dofeature/dofeature.github.io/assets/53332433/3bfbefaa-0527-42a7-83d0-1fcba812dea9)
 
-- **Communication and Connectivity:** Projects like "New York Talk Exchange" tracked telecommunications, revealing how different neighborhoods in New York City connected globally. This opened up a conversation about privacy and digital devices' potential risks.
+- **Communication and Connectivity**
+  Projects like "New York Talk Exchange" tracked telecommunications, revealing how different neighborhoods in New York City connected globally. This opened up a conversation about privacy and digital devices' potential risks.
 
 ![image](https://github.com/dofeature/dofeature.github.io/assets/53332433/d2bfa159-9ea1-4ae4-95f4-b850eac2ff00)
 
-- **Citizens and Governance:** SCL has been involved in innovative projects like "Trash Track," where sensors attached to garbage provided insight into waste management. The lab has also engaged in addressing pressing issues such as the COVID-19 pandemic's social implications and climate crisis, emphasizing citizen engagement and bottom-up action.
+- **Citizens and Governance**
+  SCL has been involved in innovative projects like "Trash Track," where sensors attached to garbage provided insight into waste management. The lab has also engaged in addressing pressing issues such as the COVID-19 pandemic's social implications and climate crisis, emphasizing citizen engagement and bottom-up action.
 
 ![image](https://github.com/dofeature/dofeature.github.io/assets/53332433/113dbbb2-9107-427a-8bad-ed3a0d5154bc)
 
 
 
-### Challenges and Human-Centric Approaches
+## Challenges and Human-Centric Approaches
 
 Ratti highlights the evolution of his role within SCL and the challenges faced, such as balancing administrative responsibilities with research engagement. The lab's continued efforts to reinvent itself and stay aligned with cutting-edge trends showcase a commitment to solving current urban challenges.
 
 The underlying theme of Ratti's article is the shift from the 'smart city' concept to the 'senseable city.' Rather than optimizing urban environments, SCL aims to create spaces that listen to people and respond to their needs. This involves embracing chaos and serendipity and fostering collective participation and empowerment.
 
-## Expect Dofeature’s Journey
+## Dofeature’s Journey
 
 As we continue to journey through the complexities of urban life at Dofeature, Ratti's article serves as a treasure trove of insights into the work of the Senseable City Lab and its mission to blend technology and urbanism into a human-centric perspective. These experiences and lessons resonate with Dofeature's goals and provide an inspiring pathway to understanding urban living environments. The focus on inclusivity, collaboration, technological innovation, and practical solutions sets a compelling and thoughtful precedent for interdisciplinary urban research. Let's carry forward the human-centric approach and innovative spirit as we work to shape urban environments that are responsive, dynamic, and deeply connected to people who live together.
 
