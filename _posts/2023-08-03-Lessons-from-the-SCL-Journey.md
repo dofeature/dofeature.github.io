@@ -7,8 +7,6 @@ author: Youngjun Park
 ---
 
 
-# ****Welcome to Dofeature: Lessons from the Senseable City Lab****
-
 As members of 'Dofeature', our interdisciplinary group of researchers hailing from fields as diverse as architecture, urban planning, economy, and computer science, we strive to explore and understand the complex ecosystem of urban life. Today, I want to share insights from an inspiring article by Carlo Ratti, leader of the Senseable City Lab (SCL) at MIT, who has explored similar urban questions. His journey may inspire our own exploration of the 'urban,' the environment we all share and shape.
 
 *Who is Carlo Ratti?*
