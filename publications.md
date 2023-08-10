@@ -9,7 +9,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 ### 2023
 
-_Enhancing Spatio-temporal Traffic Prediction through Urban Human Activity Analysis_
+_Enhancing Spatio-temporal Traffic Prediction through Urban Human Activity Analysis_<br>
 Sumin Han, Youngjun Park, Minji Lee, Jisun An, and Dongman Lee <br>
  32nd ACM International Conference on Information and Knowledge Management. [Paper](/documents/2023_CIKM.pdf)
 
