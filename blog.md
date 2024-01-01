@@ -13,7 +13,7 @@ permalink: /blog/
         <a href="{{ post.url | prepend: site.baseurl }}">
             <div class="row">
                 <div class="col-sm-4">
-                    <img src="/{% if post.header-img %}{{ post.header-img }}{% else %}{{ site.header-img }}{% endif %}">
+                    <img src="/{% if post.header-img %}{{ post.header-img }}{% else %}{{ site.empty-img }}{% endif %}">
                 </div>
                 <div class="col-sm-8">
                     <h3 class="post-title">
