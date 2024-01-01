@@ -1,6 +1,6 @@
 ---
 name: Youngjun Park
-position: researcher
+position: pi
 avatar: youngjun.jpg
 twitter: 
 ---
