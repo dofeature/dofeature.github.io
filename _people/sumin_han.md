@@ -1,6 +1,6 @@
 ---
 name: Sumin Han
-position: researcher
+position: pi
 avatar: suminhan.jpg
 ---
 
