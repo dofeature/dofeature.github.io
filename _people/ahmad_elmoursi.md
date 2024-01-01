@@ -2,5 +2,6 @@
 name: Ahmad Elmoursi
 position: intern
 avatar: ahmad_elmoursi.jpg
-joined: 2023-Winter
+joined: 2023
+season: Winter
 ---
