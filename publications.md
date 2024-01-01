@@ -16,12 +16,12 @@ Preprint [Arxiv](https://arxiv.org/abs/2311.11812)
 
 _Enhancing Spatio-temporal Traffic Prediction through Urban Human Activity Analysis_ <br>
 Sumin Han, Youngjun Park, Minji Lee, Jisun An, and Dongman Lee <br>
- 32nd ACM International Conference on Information and Knowledge Management. [Link](https://dl.acm.org/doi/abs/10.1145/3583780.3614867)
+32nd ACM International Conference on Information and Knowledge Management. [Link](https://dl.acm.org/doi/abs/10.1145/3583780.3614867) [PDF](/documents/2023_CIKM.pdf)
 
 
 _Encoding Urban Trajectory as a Language: Deep Learning Insights for Human Mobility Pattern_<br>
 Youngjun Park and Sumin Han<br>
-The paper will be presented at the Association of Collegiate Schools of Planning (ACSP) conference 2023 in Chicago, IL. [Paper](/documents/2023_ACSP.pdf)
+The paper will be presented at the Association of Collegiate Schools of Planning (ACSP) conference 2023 in Chicago, IL. [PDF](/documents/2023_ACSP.pdf)
 
 
 <hr>
