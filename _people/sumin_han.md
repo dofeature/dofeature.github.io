@@ -2,7 +2,8 @@
 name: Sumin Han
 position: senior
 avatar: suminhan.jpg
-joined: 2019-Summer
+joined: 2019
+season: Summer
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
