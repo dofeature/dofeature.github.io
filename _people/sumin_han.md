@@ -1,6 +1,6 @@
 ---
 name: Sumin Han
-position: pi
+position: senior-researcher
 avatar: suminhan.jpg
 ---
 
