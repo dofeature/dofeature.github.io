@@ -2,7 +2,7 @@
 name: Hyeongchan Bae
 position: junior
 avatar: hyungchanbae.png
-joined: 2023
+joined: 2023-Spring
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
