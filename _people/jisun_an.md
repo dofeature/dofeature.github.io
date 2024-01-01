@@ -1,7 +1,7 @@
 ---
 name: Jisun An
 position: visiting
-avatar: subject_zero.jpg
+avatar:
 joined: 2021
 season: Summer
 ---
