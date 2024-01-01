@@ -1,7 +1,7 @@
 ---
 name: Dongman Lee
 position: investor
-avatar: subject_zero.jpg
+avatar:
 twitter: 
 joined: 2023
 season: Spring
