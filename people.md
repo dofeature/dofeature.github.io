@@ -20,7 +20,7 @@ permalink: /people/
 <h3>Postdoctoral Fellows</h3>
  {% elsif role == 'pi' %}
 <h3>Principal Investigator</h3>
- {% elsif role == 'senior-researcher' %}
+ {% elsif role == 'senior_researcher' %}
 <h3>Senior Researcher</h3>
  {% elsif role == 'researcher' %}
 <h3>Researcher</h3>
