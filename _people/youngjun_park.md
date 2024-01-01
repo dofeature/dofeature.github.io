@@ -3,6 +3,8 @@ name: Youngjun Park
 position: pi
 avatar: youngjun.jpg
 twitter: 
+joined: 2022
+season: Fall
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
