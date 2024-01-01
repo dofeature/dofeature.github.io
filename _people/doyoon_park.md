@@ -1,7 +1,7 @@
 ---
 name: Doyoon Park
 position: alumni
-avatar: subject_zero.jpg
+avatar:
 joined: 2023
 season: fall
 ---
