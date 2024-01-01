@@ -1,6 +1,6 @@
 ---
 name: Hyeongchan Bae
-position: researcher
+position: junior
 avatar: hyungchanbae.png
 joined: 2023
 ---
