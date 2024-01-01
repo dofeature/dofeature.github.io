@@ -1,6 +1,6 @@
 ---
 name: Sumin Han
-position: senior_researcher
+position: senior
 avatar: suminhan.jpg
 ---
 
