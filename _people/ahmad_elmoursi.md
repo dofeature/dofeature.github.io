@@ -18,9 +18,6 @@ years ago and have achieved various achievements and accomplishments in competit
 ## ACHIEVEMENTS
 
 - **APIO Silver(2022) and bronze(2023) medals:** Was able to secure a silver medal and a bronze medal in Asian Pacific Informatics Olympiad
-
 - **EOI gold medalist(2022,2023):** Egyptian Olympiad in Informatics gold medalist in 2022,2023
-
 - **Qualified to IOI(2021,2022):** Qualified to the International Olympiad in Informatics 2021,2022. Codeforces Master level Top 2% of competitive programmers in codeforces(https://codeforces.com/profile/Ahmadsm2005)
-
 - **Google Codejam 2022 top 600, Facebook Hackercup 2022 top 200 (2022):** I was able to secure top 600 in Google codejam 2022 and top 200 in Facebook Hackercup 2022.
