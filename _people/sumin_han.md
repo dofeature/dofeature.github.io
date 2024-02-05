@@ -1,6 +1,6 @@
 ---
 name: Sumin Han
-position: senior
+position: pi
 avatar: suminhan.jpg
 joined: 2019
 season: Summer
