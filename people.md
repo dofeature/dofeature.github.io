@@ -41,7 +41,7 @@ permalink: /people/
  {% elsif role == 'others' %}
 <h3>Honorary Members</h3>
  {% elsif role == 'alumni' %}
-<h4>Alumni</h4>
+<h4>Previous Interns</h4>
 {% endif %}
 </div>
 
